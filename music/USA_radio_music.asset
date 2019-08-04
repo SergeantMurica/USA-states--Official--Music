@@ -1,0 +1,22 @@
+
+music = {
+	name = "Skald_Run"
+	file = "skald_run.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Blood_on_the_Risers"
+	file = "blood_main.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Blood_Upon_the_Risers"
+	file = "blood.ogg"
+	volume = 1.00
+}
+music = {
+	name = "battle_hymn_of_the_republic"
+	file = "battle_hymn_of_the_republic.ogg"
+	volume = 1.00
+}
+
