@@ -26,7 +26,7 @@ music = {
 }
 music = {
 	name = "Alabama"
-	file = "alabama.ogg"
+	file = "Alabama.ogg"
 	volume = 1.00
 }
 music = {
@@ -467,5 +467,35 @@ music = {
 music = {
 	name = "You_Are_My_Sunshine"
 	file = "You_Are_My_Sunshine.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_Wanderer"
+	file = "The_Wanderer.ogg"
+	volume = 1.00
+}
+music = {
+	name = "A_Horse_With_No_Name"
+	file = "A_Horse_With_No_Name.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Ghost_Riders_In_the_Sky"
+	file = "Ghost_Riders_In_the_Sky.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Ragged_Old_Flag"
+	file = "Ragged_Old_Flag.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Take_Me_Home_Country_Roads"
+	file = "Take_Me_Home_Country_Roads.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_Ballad_of_Ira_Hayes"
+	file = "The_Ballad_of_Ira_Hayes.ogg"
 	volume = 1.00
 }

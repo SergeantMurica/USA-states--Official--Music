@@ -8,7 +8,22 @@ music = {
 		}
 	}
 }
+music= {
+	song = "Ghost_Riders_In_the_Sky"
 
+}
+music= {
+	song = "Ragged_Old_Flag"
+
+}
+music= {
+	song = "Take_Me_Home_Country_Roads"
+
+}
+music= {
+	song = "The_Ballad_of_Ira_Hayes"
+
+}
 music= {
 	song = "Skald_Run"
 
@@ -375,5 +390,13 @@ music= {
 }
 music= {
 	song = "You_Are_My_Sunshine"
+
+}
+music= {
+	song = "The_Wanderer"
+
+}
+music= {
+	song = "A_Horse_With_No_Name"
 
 }
