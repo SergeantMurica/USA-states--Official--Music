@@ -24,3 +24,448 @@ music = {
 	file = "battle_hymn_of_the_republic.ogg"
 	volume = 1.00
 }
+music = {
+	name = "Alabama"
+	file = "alabama.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Alaska's_Flag"
+	file = "Alaska's_Flag.ogg"
+	volume = 1.00
+}
+music = {
+	name = "All_Hail_to_Massachusetts"
+	file = "All_Hail_to_Massachusetts.ogg"
+	volume = 1.00
+}
+music = {
+	name = "American_Revolution_Medley"
+	file = "American_Revolution_Medley.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Arizona_March_Song"
+	file = "Arizona_March_Song.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Arkansas"
+	file = "Arkansas.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Be_My_Little_Baby_Bumble_Bee"
+	file = "Be_My_Little_Baby_Bumble_Bee.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Beautiful_Nebraska"
+	file = "Beautiful_Nebraska.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Beautiful_Ohio"
+	file = "Beautiful_Ohio.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Bottom_Trousers"
+	file = "Bottom_Trousers.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Canadian_National_Anthem_feat_Nikki_Mathis_and_Erin_Shulhan"
+	file = "Canadian_National_Anthem_feat_Nikki_Mathis_and_Erin_Shulhan.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Carolina"
+	file = "Carolina.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Carry_Me_Back_to_Old_Virginia"
+	file = "Carry_Me_Back_to_Old_Virginia.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Cow_Cow_Boogie"
+	file = "Cow_Cow_Boogie.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Cuddle_up_a_Little_Closer"
+	file = "Cuddle_up_a_Little_Closer.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Dipsy_Doodle"
+	file = "Dipsy_Doodle.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Everywhere_You_Go"
+	file = "Everywhere_You_Go.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Georgia"
+	file = "Georgia.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Go_Mississippi"
+	file = "Go_Mississippi.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Hail_Minnesota"
+	file = "Hail_Minnesota.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Hail_South_Dakota"
+	file = "Hail_South_Dakota.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Hail_Vermont"
+	file = "Hail_Vermont.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Hawaii_Ponoi"
+	file = "Hawaii_Ponoi.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Here_We_Have_Idaho"
+	file = "Here_We_Have_Idaho.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Home_Means_Nevada"
+	file = "Home_Means_Nevada.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Home_On_the_Range"
+	file = "Home_On_the_Range.ogg"
+	volume = 1.00
+}
+music = {
+	name = "How_Deep_Is_the_Ocean"
+	file = "How_Deep_Is_the_Ocean.ogg"
+	volume = 1.00
+}
+music = {
+	name = "I_Dont_Want_To_Set_the_World_On_Fire"
+	file = "I_Dont_Want_To_Set_the_World_On_Fire.ogg"
+	volume = 1.00
+}
+music = {
+	name = "If_I_Didnt_Care"
+	file = "If_I_Didnt_Care.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Ill_Be_Seeing_You"
+	file = "Ill_Be_Seeing_You.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Illinois"
+	file = "Illinois.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Im_Sending_You_the_Siegfried_Line"
+	file = "Im_Sending_You_the_Siegfried_Line.ogg"
+	volume = 1.00
+}
+music = {
+	name = "In_Times_Like_These"
+	file = "In_Times_Like_These.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Inka_Dinka_Doo"
+	file = "Inka_Dinka_Doo.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Into_Each_Life_Some_Rain_Must_Fall"
+	file = "Into_Each_Life_Some_Rain_Must_Fall.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Jersey_Bounce"
+	file = "Jersey_Bounce.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Kiss_Me_Good_Night_SergeantMajor"
+	file = "Kiss_Me_Good_Night_SergeantMajor.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Maryland_My_Maryland"
+	file = "Maryland_My_Maryland.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Maybe"
+	file = "Maybe.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Michigan_My_Michigan"
+	file = "Michigan_My_Michigan.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Milkman_Keep_Those_Bottles_Quiet"
+	file = "Milkman_Keep_Those_Bottles_Quiet.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Montana"
+	file = "Montana.ogg"
+	volume = 1.00
+}
+music = {
+	name = "My_Old_Kentucky_Home"
+	file = "My_Old_Kentucky_Home.ogg"
+	volume = 1.00
+}
+music = {
+	name = "National_Anthem_of_Mexico"
+	file = "National_Anthem_of_Mexico.ogg"
+	volume = 1.00
+}
+music = {
+	name = "No_Time_for_Emotion"
+	file = "No_Time_for_Emotion.ogg"
+	volume = 1.00
+}
+music = {
+	name = "North_Dakota"
+	file = "North_Dakota.ogg"
+	volume = 1.00
+}
+music = {
+	name = "O_Fair_New_Mexico"
+	file = "O_Fair_New_Mexico.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Ode_to_New_Jersey"
+	file = "Ode_to_New_Jersey.ogg"
+	volume = 1.00
+}
+music = {
+	name = "OhJohnny"
+	file = "OhJohnny.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Oklahoma"
+	file = "Oklahoma.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Old_Folks_At_Home"
+	file = "Old_Folks_At_Home.ogg"
+	volume = 1.00
+}
+music = {
+	name = "On_the_Banks_of_the_Wabash"
+	file = "On_the_Banks_of_the_Wabash.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Oregon_My_Oregon"
+	file = "Oregon_My_Oregon.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Our_Delaware"
+	file = "Our_Delaware.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Over_the_Hills_and_Far_Away"
+	file = "Over_the_Hills_and_Far_Away.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Oh_What_a_Surprise_for_the_Duce"
+	file = "Oh_What_a_Surprise_for_the_Duce.ogg"
+	volume = 1.00
+}
+music = {
+	name = "On_Wisconsin"
+	file = "On_Wisconsin.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Pennsylvania"
+	file = "Pennsylvania.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Rhode_Islands_It_for_Me"
+	file = "Rhode_Islands_It_for_Me.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Roll_On_Columbia"
+	file = "Roll_On_Columbia.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Sentimental_Journey"
+	file = "Sentimental_Journey.ogg"
+	volume = 1.00
+}
+music = {
+	name = "State_of_Maine_Song"
+	file = "State_of_Maine_Song.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Texas_Our_Texas"
+	file = "Texas_Our_Texas.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_Army_Goes_Rolling_Along"
+	file = "The_Army_Goes_Rolling_Along.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_Eighth_of_January"
+	file = "The_Eighth_of_January.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_Missouri_Waltz"
+	file = "The_Missouri_Waltz.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_National_Anthem"
+	file = "The_National_Anthem.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_Old_North_State"
+	file = "The_Old_North_State.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_One_Rose"
+	file = "The_One_Rose.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_Pipers_Refrain"
+	file = "The_Pipers_Refrain.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_Song_of_Iowa"
+	file = "The_Song_of_Iowa.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_Star_Spangled_Banner"
+	file = "The_Star_Spangled_Banner.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_Very_Thought_of_You"
+	file = "The_Very_Thought_of_You.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_Washing_On_the_Siegfried_Line"
+	file = "The_Washing_On_the_Siegfried_Line.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_West_Virginia_Hills"
+	file = "The_West_Virginia_Hills.ogg"
+	volume = 1.00
+}
+music = {
+	name = "The_White_Cliffs_of_Dover"
+	file = "The_White_Cliffs_of_Dover.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Therell_Be_a_Hot_Time_in_the_Old_Town_of_Berlin"
+	file = "Therell_Be_a_Hot_Time_in_the_Old_Town_of_Berlin.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Together"
+	file = "Together.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Utah_We_Love_Thee"
+	file = "Utah_We_Love_Thee.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Waitin_for_the_Train_to_Come_In"
+	file = "Waitin_for_the_Train_to_Come_In.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Washington_Square"
+	file = "Washington_Square.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Well_Meet_Again"
+	file = "Well_Meet_Again.ogg"
+	volume = 1.00
+}
+music = {
+	name = "What_Do_You_Want_to_Make_Those_Eyes_at_Me_For"
+	file = "What_Do_You_Want_to_Make_Those_Eyes_at_Me_For.ogg"
+	volume = 1.00
+}
+music = {
+	name = "When_Its_Iris_Time_in_Tennessee"
+	file = "When_Its_Iris_Time_in_Tennessee.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Where_the_Columbines_Grow"
+	file = "Where_the_Columbines_Grow.ogg"
+	volume = 1.00
+}
+music = {
+	name = "World_War_One_Medley "
+	file = "World_War_One_Medley .ogg"
+	volume = 1.00
+}
+music = {
+	name = "Wyoming"
+	file = "Wyoming.ogg"
+	volume = 1.00
+}
+music = {
+	name = "Yankee_Doodle"
+	file = "Yankee_Doodle.ogg"
+	volume = 1.00
+}
+music = {
+	name = "You_Are_My_Sunshine"
+	file = "You_Are_My_Sunshine.ogg"
+	volume = 1.00
+}
